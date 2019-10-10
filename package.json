@@ -1,0 +1,30 @@
+{
+  "name": "contatclist",
+  "version": "1.0.0",
+  "description": "simple contactlist",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "author": "ellenKate",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "*",
+    "flux": "*",
+    "gulp": "*",
+    "reactify": "*",
+    "vinyl-source-stream": "*",
+    "object-assign": "*"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "create-react-class": "^15.6.3",
+    "firebase": "^5.8.4",
+    "firebase-admin": "^7.0.0",
+    "jquery": "^3.3.1",
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2",
+    "save": "^2.3.3",
+    "worker-threads": "^1.0.0"
+  }
+}
