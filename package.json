@@ -20,7 +20,7 @@
     "bootstrap": "^4.3.1",
     "create-react-class": "^15.6.3",
     "firebase": "^5.8.4",
-    "firebase-admin": "^7.0.0",
+    "firebase-admin": "^11.4.1",
     "jquery": "^3.3.1",
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
